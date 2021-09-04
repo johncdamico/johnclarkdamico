@@ -27,7 +27,7 @@ twitter_username: johnclarkdamico
 github_username:  johncdamico
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
