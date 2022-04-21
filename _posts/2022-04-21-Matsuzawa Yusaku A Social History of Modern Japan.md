@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Matsuzawa Yusaku, A Social Modern History of Japan - Social Groups and the Market Economy, 1868-1914"
-date: '2022-04-23'
+title: "Matsuzawa Yusaku, A Social History of Modern Japan - Social Groups and the Market Economy, 1868-1914"
+date: '2022-04-21'
 category: 
 
 ---
 
 <p>
-Matsuzawa Y&umacr;saku's <i>A Social Modern History of Japan - Social Groups and the Market Economy, 1868-1914</i> offers a sweeping overview of Japan's modern period. Bookended by chapters on the breakdown of the early modern social order and the emergence of "contemporary" (<i>gendai</i>) society in the aftermath of WWI, the bulk of the book consists of a series of thematic chapters covering different sectors of the Japanese economy. Matsuzawa limits his discussion to the Japanese main islands -- more specifically, the areas that shared a common "early modern" (<i>kinsei</i>) legacy of Tokugawa rule. Central to Matsuzawa's understanding of the transformations faced by modern Japan, then, is the early modern period.
+Matsuzawa Y&umacr;saku's <i>A Social History of Modern Japan - Social Groups and the Market Economy, 1868-1914</i> offers a sweeping overview of Japan's modern period. Bookended by chapters on the breakdown of the early modern social order and the emergence of "contemporary" (<i>gendai</i>) society in the aftermath of WWI, the bulk of the book consists of a series of thematic chapters covering different sectors of the Japanese economy. Matsuzawa limits his discussion to the Japanese main islands -- more specifically, the areas that shared a common "early modern" (<i>kinsei</i>) legacy of Tokugawa rule. Central to Matsuzawa's understanding of the transformations faced by modern Japan, then, is the early modern period.
 </p>
 <p>
 Matsuzawa sees the shift from the early modern to the modern period as accompanying a fundamental reconfiguration of "social groups." In the early modern period, status-based social groups (most significantly, the village (<i>mura</i>) and urban neighborhood (<i>ch&omacr;</i>)) organized households (not individuals) to perform duties for the samurai state in exchange for certain sets of rights and privileges. The legal and political backing provided by this system of duties and privileges worked to moderate internal disputes, as social groups were subject to collective punishment for the behavior of their members, and helped regulate the relationship between society and the market.
