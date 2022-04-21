@@ -1,6 +1,6 @@
 ----
 layout: post 
-title: Matsuzawa Y&umacr;saku's *A Social Modern History of Japan - Social Groups and the Market Economy, 1868-1914*
+title: "Matsuzawa Y&umacr;saku's *A Social Modern History of Japan - Social Groups and the Market Economy, 1868-1914*"
 date: '2022-04-23'
 category:
 ----
