@@ -1,9 +1,9 @@
-----
+---------
 layout: post 
 title: "Matsuzawa Y&umacr;saku's *A Social Modern History of Japan - Social Groups and the Market Economy, 1868-1914*"
 date: '2022-04-23'
 category:
-----
+----------
 
 <p>
 Matsuzawa Y&umacr;saku's *A Social Modern History of Japan - Social Groups and the Market Economy, 1868-1914* offers a sweeping overview of Japan's modern period. Bookended by chapters on the breakdown of the early modern social order and the emergence of "contemporary" (*gendai*) society in the aftermath of WWI, the bulk of the book of a series of thematic chapters covering different sectors of the Japanese economy. Matsuzawa limits his discussion to the Japanese main islands -- more specifically, the areas that shared a common "early modern" (*kinsei*) legacy of Tokugawa rule. Central to Matsuzawa's understanding of the transformations faced by modern Japan, then, is the early modern period.
